@@ -368,3 +368,8 @@ font-family: 'Raleway', sans-serif;
         justify-content: flex-start;
     }
 }
+
+/*  */
+.hidden{
+    display: none;
+}
