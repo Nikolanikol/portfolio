@@ -373,3 +373,8 @@ font-family: 'Raleway', sans-serif;
 .hidden{
     display: none;
 }
+.item-description{
+    text-align: center;
+    color: #000000;
+    padding-bottom: 15px;
+}
